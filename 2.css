@@ -1,0 +1,33 @@
+H1 { 
+    color: #000080;  
+    font-size: 200%;  
+    font-family: Arial, Verdana, sans-serif;  
+    text-align: center;
+    }
+H2 { 
+    color: #dd8613;
+    font-family: Helvetica, sans-serif;
+}
+P {
+    padding-left: 20px;
+    font-family: Gill Sans, sans-serif;
+    }
+I {
+    color: #1b6e0a;
+    font-family: Arial, Verdana, sans-serif;
+}
+H4 { 
+    color: #801e00;
+    font-family: Gill Sans, sans-serif;
+    }
+H3 { 
+    color: #900;
+    font-family: Helvetica, sans-serif;
+}
+B {
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+}
+UL {
+    color: rgb(206, 9, 173);
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+}
